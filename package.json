@@ -1,0 +1,19 @@
+{
+  "name": "@flancer64/habr_di_demo",
+  "version": "0.1.0",
+  "description": "Demo for Habr",
+  "homepage": "https://habr.com/ru/post/562008/",
+  "license": "GPL-3.0-only",
+  "author": {
+    "name": "Alex Gusev",
+    "email": "alex@flancer64.com",
+    "url": "https://github.com/flancer64"
+  },
+  "scripts": {
+    "start": "node ./src/main.mjs"
+  },
+  "repository": "github:@flancer64/habr_di_demo",
+  "dependencies": {
+    "@teqfw/di": "*"
+  }
+}
